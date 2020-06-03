@@ -1,3 +1,1 @@
-document.addEventListener('DOMContentLoaded', () => {
-
-})
+console.log('%c HI', 'color: firebrick')
